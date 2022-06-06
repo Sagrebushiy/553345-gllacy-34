@@ -23,16 +23,21 @@
 }
 
 body {
-font-family: Inter, Arial, sans-serif;
-font-size: 16px;
-font-weight: 22px;
-color: black;
-background: #FEAFC3;
+    font-family: Inter, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 22px;
+    color: black;
+    background: #FEAFC3;
 }
 
 .page-header {
-color: black;
-background: #FEAFC3;
+    color: #2D3440;
+    background: #FEAFC3;
+}
 
+.navigation-link {
+    font-family: Inter, Arial, sans-serif;
+    line height: 20px;
+    color: #2D3440;
 }
 
