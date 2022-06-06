@@ -41,3 +41,15 @@ body {
     color: inherit;
 }
 
+.navigation-user {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 14px;
+    line height: 20px;
+    color: inherit;
+}
+
+.contacts-phone {
+    font-family: Inter, Arial, sans-serif;
+    line height: 20px;
+    color: inherit;
+}
