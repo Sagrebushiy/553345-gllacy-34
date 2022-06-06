@@ -37,16 +37,16 @@ body {
 
 .navigation-link {
     font-family: Inter, Arial, sans-serif;
-    line height: 20px;
+    line-height: 20px;
     color: inherit;
     text-decoration: none;
     text-align: center;
 }
 
-.navigation-user {
+.navigation-user-link {
     font-family: Inter, Arial, sans-serif;
     font-size: 14px;
-    line height: 20px;
+    line-height: 20px;
     color: inherit;
     text-decoration: none;
     text-align: center;
@@ -54,7 +54,7 @@ body {
 
 .contacts-phone {
     font-family: Inter, Arial, sans-serif;
-    line height: 20px;
+    line-height: 20px;
     color: inherit;
     font-weight: 700;
     text-decoration: none;
