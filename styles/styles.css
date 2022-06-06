@@ -81,31 +81,39 @@ body {
     font-size: 16px;
     line-height: 20px;
     text-align: center;
-}
-
-.social-item {
-    width: 24px;
-    height: 24px;
     background: #FCFCFC;
     border-radius: 50%;
+    text-decoration: none;
 }
 
 .button-telegram {
     background-image: ("../images/css/telegram.svg");
     text-decoration: none;
     text-align: center;
+    width: 24px;
+    height: 24px;
+    background: #FCFCFC;
+    border-radius: 50%;
 }
 
 .button-vk {
     background-image: ("../images/css/vk.svg");
     text-decoration: none;
     text-align: center;
+    width: 24px;
+    height: 24px;
+    background: #FCFCFC;
+    border-radius: 50%;
 }
 
 .button-youtube {
     background-image: ("../images/css/youtube.svg");
     text-decoration: none;
     text-align: center;
+    width: 24px;
+    height: 24px;
+    background: #FCFCFC;
+    border-radius: 50%;
 }
 
 
