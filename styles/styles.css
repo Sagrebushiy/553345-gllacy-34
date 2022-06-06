@@ -112,6 +112,41 @@ body {
     text-decoration: none;
 }
 
+/* Popular products*/
+.popular-product-title {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 46px;
+    text-align: center;
+}
+
+.product-card-title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.product-card-description {
+    line-height: 22px;
+    text-align: center;
+    color: #565C66;
+}
+
+.product-card-price {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.product-card-image {
+    border-radius: 50%;
+}
+
+.product-card {
+    background-color: white;
+    border-radius: 8px;
+}
+
 
 
 
