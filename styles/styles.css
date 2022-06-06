@@ -38,6 +38,6 @@ body {
 .navigation-link {
     font-family: Inter, Arial, sans-serif;
     line height: 20px;
-    color: #2D3440;
+    color: inherit;
 }
 
