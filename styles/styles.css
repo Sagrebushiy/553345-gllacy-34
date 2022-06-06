@@ -26,13 +26,13 @@ body {
     font-family: Inter, Arial, sans-serif;
     font-size: 16px;
     font-weight: 22px;
-    color: black;
-    background: #FEAFC3;
+    color: #2D3440;
+    background: white;
 }
 
 .page-header {
     color: #2D3440;
-    background: #FEAFC3;
+    background: white;
 }
 
 .navigation-link {
@@ -61,3 +61,52 @@ body {
     text-align: center;
     font-style: normal;
 }
+
+.slider-title {
+    font-family: Inter, Arial, sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 46px;  
+}
+
+.slider-description {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.button {
+    font-family: Inter, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.social-item {
+    width: 24px;
+    height: 24px;
+    background: #FCFCFC;
+    border-radius: 50%;
+}
+
+.button-telegram {
+    background-image: ("../images/css/telegram.svg");
+    text-decoration: none;
+    text-align: center;
+}
+
+.button-vk {
+    background-image: ("../images/css/vk.svg");
+    text-decoration: none;
+    text-align: center;
+}
+
+.button-youtube {
+    background-image: ("../images/css/youtube.svg");
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
